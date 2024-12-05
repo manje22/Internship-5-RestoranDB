@@ -34,8 +34,8 @@ CREATE TABLE Restaurant(
 )
 
 ALTER TABLE Restaurant
-	ADD COLUMN HAS_DELIVERY BOOL NOT NULL
-
+	ADD COLUMN NAME VARCHAR(50) not null UNIQUE
+	
 CREATE TABLE Employee(
 	EmployeeId SERIAL PRIMARY KEY,
 	RestaurantId INT REFERENCES Restaurant(RestaurantId),
