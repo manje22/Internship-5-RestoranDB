@@ -3,6 +3,8 @@ CREATE TABLE City(
 	Name VARCHAR(30) NOT NULL UNIQUE,
 	GeoLocation POINT
 )
+ALTER TABLE CITY
+	DROP COLUMN GeoLocation
 
 CREATE TABLE Job(
 	JobId SERIAL PRIMARY KEY,
@@ -33,6 +35,8 @@ CREATE TABLE Restaurant(
 	Adress VARCHAR(100) NOT NULL
 )
 
+
+
 ALTER TABLE Restaurant
 	ADD COLUMN NAME VARCHAR(50) not null UNIQUE
 	
@@ -45,6 +49,8 @@ CREATE TABLE Employee(
 	Name VARCHAR(50),
 	CityId INT REFERENCES City(CityId)
 )
+
+
 
 
 CREATE TABLE Food(
@@ -62,6 +68,8 @@ CREATE TABLE Restaurant_Food(
 	Is_Available BOOL,
 	Price FLOAT
 )
+
+
 
 ALTER TABLE Restaurant_Food
 	DROP Price
@@ -89,6 +97,8 @@ CREATE TABLE Order_Items(
 	Amount INT
 )
 
+
+
 ALTER TABLE Order_Items
 	ADD PRIMARY KEY(OrderId, FoodId)
 
@@ -103,11 +113,13 @@ CREATE TABLE Deliveries(
 )
 
 
+
 CREATE TABLE Delivery_Review(
 	DeliveryReviewId SERIAL PRIMARY KEY,
 	Review INT,
 	Comment VARCHAR(200)
 )
+
 
 ALTER TABLE Delivery_Review
 	ADD COLUMN OrderId INT,
@@ -122,6 +134,7 @@ CREATE TABLE Food_Review(
 	Comment VARCHAR(200),
 	CustomerId INT REFERENCES Customer(CustomerId)
 )
+
 ALTER TABLE Food_Review
 	ADD COLUMN RESTAURANTID INT,
 	ADD FOREIGN KEY(FOODID, RESTAURANTID) REFERENCES RESTAURANT_FOOD(FOODID, RESTAURANTID)
