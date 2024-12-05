@@ -2,3 +2,7 @@
 SELECT name FROM FOOD WHERE price < 15
 
 --Ispis svih narudžbi iz 2023. godine koje imaju ukupnu vrijednost veću od 50 eura.
+SELECT * FROM ORDERS WHERE(
+	EXTRACT(YEAR FROM dateoforder) = 2023 AND
+	total > 50.00
+)
