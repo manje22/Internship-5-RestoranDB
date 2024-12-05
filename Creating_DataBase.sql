@@ -79,6 +79,9 @@ CREATE TABLE Order_Items(
 	Amount INT
 )
 
+ALTER TABLE Order_Items
+	ADD PRIMARY KEY(OrderId, FoodId)
+
 
 CREATE TABLE Deliveries(
 	OrderId INT REFERENCES Orders(OrderId),
@@ -95,6 +98,11 @@ CREATE TABLE Delivery_Review(
 	Review INT,
 	Comment VARCHAR(200)
 )
+
+ALTER TABLE Delivery_Review
+	ADD COLUMN OrderId INT,
+	ADD COLUMN EmployeeId INT,
+	add FOREIGN KEY (OrderId, EmployeeId) REFERENCES Deliveries(OrderId, EmployeeId)
 --Add constraint review must be between 1 and 5
 
 CREATE TABLE Food_Review(
