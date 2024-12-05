@@ -21,6 +21,9 @@ CREATE TABLE Customer(
 	LastName VARCHAR(30) NOT NULL
 )
 
+ALTER TABLE Customer
+	ADD COLUMN HasLoyalty BOOL
+
 CREATE TABLE Restaurant(
 	RestaurantId SERIAL PRIMARY KEY,
 	CityId INT REFERENCES City(CityId),
@@ -47,7 +50,8 @@ CREATE TABLE Food(
 	FoodCategoryId INT REFERENCES FoodCategories(FoodCategoryId),
 	Caloric_Value INT
 )
-
+ALTER TABLE Food
+	ADD COLUMN Price FLOAT
 
 CREATE TABLE Restaurant_Food(
 	RestaurantId INT REFERENCES Restaurant(RestaurantId),
@@ -55,6 +59,9 @@ CREATE TABLE Restaurant_Food(
 	Is_Available BOOL,
 	Price FLOAT
 )
+
+ALTER TABLE Restaurant_Food
+	DROP Price
 
 ALTER TABLE Restaurant_Food
 	ADD PRIMARY KEY(RestaurantId, FoodId)
