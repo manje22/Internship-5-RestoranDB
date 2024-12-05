@@ -1,0 +1,502 @@
+cityId,capacity,open_time,close_time,adress,has_delivery,name
+1,32,12:56,23:38,69 Oxford Terrace,true,vestibulum vestibulum ante
+3,28,7:51,17:50,23360 Dwight Place,true,tempus vel pede
+6,70,15:11,23:31,2959 Twin Pines Circle,true,sit amet nulla
+2,66,5:39,19:53,7416 Redwing Hill,true,orci luctus
+4,77,6:26,19:28,48997 Moulton Crossing,true,ipsum aliquam
+5,59,6:11,17:32,911 Dwight Pass,true,ligula suspendisse ornare
+1,44,6:17,18:15,98 Atwood Street,true,rutrum ac lobortis
+1,86,5:37,19:39,936 Anderson Circle,true,eu
+3,28,8:41,22:30,65433 Sage Parkway,true,faucibus orci luctus
+2,70,12:59,22:46,30575 Green Ridge Avenue,true,ac
+3,15,10:28,21:14,2946 Moland Place,true,placerat
+7,81,15:42,17:38,40787 Clarendon Way,true,vestibulum ante ipsum
+2,48,12:18,20:57,2 Rutledge Lane,true,donec diam
+4,69,5:37,20:49,0 Anhalt Circle,true,pellentesque viverra
+7,66,16:52,23:46,007 Commercial Plaza,true,volutpat
+7,71,14:49,23:38,74256 Raven Way,true,posuere
+5,15,8:28,20:28,51899 Nancy Circle,true,nulla neque
+3,29,9:23,18:14,5548 Springview Circle,true,in
+7,12,4:28,20:48,7730 Meadow Ridge Plaza,true,mauris laoreet ut
+4,90,5:16,21:11,194 Comanche Avenue,true,a pede
+6,49,16:01,23:52,10438 Arapahoe Point,true,turpis integer
+1,46,14:28,20:23,621 Porter Circle,true,augue a suscipit
+4,84,13:59,21:32,6 Pine View Junction,true,proin leo odio
+3,68,15:49,22:38,0638 Toban Crossing,true,vestibulum proin eu
+3,40,4:51,19:24,1595 Katie Alley,true,tortor risus
+1,96,9:26,19:41,43 Dunning Court,true,malesuada in
+2,81,16:05,22:52,31070 Derek Terrace,true,felis
+7,61,8:48,17:47,98 Crescent Oaks Avenue,true,consequat lectus
+4,66,12:26,21:29,0 Gateway Alley,true,nam tristique tortor
+2,27,9:06,18:38,70345 Loftsgordon Center,true,viverra
+7,63,10:20,20:40,3571 Schurz Center,true,nonummy
+1,17,5:41,22:39,55 Butterfield Plaza,true,amet cursus
+2,70,14:43,20:15,438 Schiller Plaza,true,rutrum
+4,23,5:34,17:23,6 Rieder Road,true,augue
+4,92,6:43,21:05,7 7th Court,true,quisque erat eros
+5,29,13:27,21:49,64820 Wayridge Way,true,suspendisse
+5,67,16:10,18:17,623 Hayes Road,true,nunc proin at
+1,73,15:28,18:39,675 Kennedy Trail,true,interdum venenatis
+7,10,4:51,18:26,3699 Anzinger Point,true,ac
+2,20,16:07,21:01,01694 Dapin Way,true,consequat lectus in
+1,48,4:00,20:07,6216 Helena Junction,true,elementum nullam varius
+2,99,10:29,18:15,03777 Mockingbird Crossing,true,ut volutpat
+6,78,7:50,20:29,12652 Westerfield Street,true,sollicitudin ut
+5,35,16:28,18:30,5 Luster Court,true,eget eleifend luctus
+5,64,7:58,23:21,2926 Killdeer Street,true,vestibulum proin
+4,85,13:35,23:45,91 Briar Crest Hill,true,in porttitor pede
+6,25,5:52,17:26,8406 Pankratz Crossing,true,proin
+1,73,14:10,21:58,91 Sullivan Junction,true,ipsum aliquam
+7,89,10:42,17:47,3834 Loeprich Street,true,commodo placerat praesent
+4,67,16:56,22:45,69003 Cordelia Lane,true,vel pede morbi
+6,57,15:16,19:30,708 Victoria Plaza,true,pellentesque eget
+1,83,14:22,19:38,146 Caliangt Trail,true,sed ante
+2,38,15:24,22:17,29 Schiller Road,true,nisl duis
+6,74,6:52,18:19,44267 Algoma Parkway,true,augue
+5,49,7:52,20:46,3 Sage Way,true,vulputate justo in
+6,47,4:39,18:30,7 Mayer Drive,true,at velit eu
+3,91,6:19,23:58,00 Daystar Place,true,mi sit amet
+6,74,15:34,21:02,6762 Oxford Circle,true,duis
+2,17,5:34,22:09,36626 Summer Ridge Lane,true,eget
+3,50,4:12,20:08,05121 Bay Junction,true,ut suscipit
+1,69,13:26,21:17,274 Mcbride Terrace,true,nisl
+4,26,13:34,20:58,24751 Ruskin Court,true,quis
+4,20,11:33,18:59,92 Carpenter Terrace,true,sollicitudin vitae consectetuer
+5,76,11:58,19:04,261 Clyde Gallagher Avenue,true,tempus
+1,81,8:21,22:45,71 Fallview Lane,true,sagittis nam
+5,35,13:32,22:39,86528 Clove Terrace,true,diam
+1,83,8:18,17:21,5084 Bartelt Plaza,true,eget
+5,75,9:02,19:24,8930 Corry Hill,true,molestie nibh
+4,97,8:52,23:17,714 Hudson Park,true,fringilla rhoncus
+5,38,15:32,22:55,4711 Dunning Junction,true,montes nascetur
+4,100,12:39,19:00,013 Oakridge Trail,true,sagittis
+1,11,5:05,21:21,061 Novick Center,true,ultrices phasellus id
+1,87,9:37,19:42,897 Bartillon Way,true,feugiat
+1,91,6:48,19:26,37297 Westport Road,true,sagittis sapien
+5,12,8:19,21:03,0431 Saint Paul Terrace,true,amet eros suspendisse
+3,95,5:28,18:45,71099 Bobwhite Park,true,donec
+5,42,5:07,17:41,69315 Fairfield Trail,true,non interdum
+2,89,16:01,22:43,04005 Grasskamp Place,true,sed
+7,54,11:39,22:36,54477 Buell Way,true,nisl nunc
+2,96,7:55,18:39,72315 Arkansas Hill,true,congue
+1,50,6:34,23:24,4730 Steensland Drive,true,condimentum neque
+5,97,7:46,17:32,6803 Lake View Crossing,true,in hac
+2,92,7:18,20:46,8 Bultman Road,true,faucibus
+5,44,10:01,20:06,59 Buena Vista Parkway,true,vestibulum proin
+3,42,14:16,20:21,2456 Dexter Plaza,true,posuere
+6,14,8:20,19:02,89 School Plaza,true,dis parturient montes
+3,55,11:47,17:31,2970 Hoffman Lane,true,nunc rhoncus
+1,76,11:18,21:46,2 Lotheville Point,true,congue risus
+6,29,9:38,17:08,63360 Forest Lane,true,dapibus at diam
+5,97,10:33,19:38,1 Sundown Street,true,nam tristique tortor
+2,95,6:02,17:24,4523 Hazelcrest Hill,true,vitae mattis
+3,18,9:42,19:25,88620 Melby Crossing,true,ut mauris
+7,56,12:52,19:50,4 Hauk Avenue,true,condimentum curabitur in
+1,26,11:10,17:22,7137 Burrows Avenue,true,duis
+2,52,13:00,23:47,1761 Maryland Street,true,pede
+7,57,4:35,23:13,71 Farragut Trail,true,donec
+2,47,5:09,19:44,957 Bultman Lane,true,erat
+1,66,6:07,19:57,41802 Hansons Junction,true,quam
+6,90,14:31,19:50,6 Delladonna Pass,true,non velit donec
+7,40,9:02,18:38,92 Spaight Court,true,vulputate justo in
+5,96,11:06,23:51,5563 Cherokee Point,true,rhoncus aliquet
+6,77,6:15,19:32,4 Pankratz Point,true,sed tristique
+6,11,6:25,19:06,026 Doe Crossing Junction,true,congue
+6,36,16:29,17:57,58 Jana Way,true,velit vivamus
+3,50,15:37,17:15,62338 Sachtjen Alley,true,cubilia curae duis
+5,65,12:23,20:49,03 Utah Drive,true,lorem
+5,43,16:10,22:40,9918 Cottonwood Road,true,ornare
+1,94,5:56,23:30,3 2nd Alley,true,quam fringilla rhoncus
+4,98,6:47,21:27,7564 Cordelia Parkway,true,vitae nisl aenean
+2,83,9:50,18:03,0304 Darwin Center,true,dictumst etiam faucibus
+3,83,7:36,21:27,0 Vidon Pass,true,hac habitasse platea
+2,70,9:45,23:10,13583 Scott Alley,true,aliquam convallis nunc
+1,64,4:30,17:05,6 Montana Court,true,nullam
+3,22,7:20,17:06,5678 Main Street,true,non velit nec
+4,43,13:29,23:26,29 Sachtjen Avenue,true,nulla facilisi
+6,16,15:50,21:56,01338 Fuller Court,true,fermentum justo
+7,69,8:20,20:35,74176 Lighthouse Bay Street,true,sit amet eleifend
+7,56,4:37,18:55,34271 Doe Crossing Parkway,true,bibendum
+5,10,7:51,17:46,7993 Sage Circle,true,vel accumsan tellus
+2,94,7:35,21:15,5 Leroy Circle,true,libero rutrum
+2,15,15:27,22:02,49060 Norway Maple Pass,true,sit amet turpis
+2,60,8:48,23:26,80 Monument Crossing,true,ac consequat metus
+3,41,13:14,17:34,51692 Dayton Plaza,true,morbi ut
+1,16,15:16,19:57,1020 Pond Crossing,true,sem praesent
+3,81,15:12,17:35,832 Orin Place,true,amet erat
+5,52,12:07,17:07,316 Delladonna Junction,true,ultrices
+4,80,14:47,17:07,10035 Debs Place,true,et magnis
+4,39,6:35,17:37,1846 Sugar Place,true,non pretium
+5,50,16:38,19:54,2046 Maple Center,true,posuere felis sed
+6,46,10:02,17:40,78698 Homewood Junction,true,odio
+3,38,16:28,23:34,03126 Ruskin Avenue,true,venenatis tristique
+3,20,14:12,21:55,86240 Columbus Hill,true,congue
+6,14,4:22,20:45,6 Clyde Gallagher Junction,true,iaculis diam
+1,76,5:01,22:56,26 Cottonwood Parkway,true,nulla sed
+7,70,9:39,21:24,1 Ludington Junction,true,velit id
+1,48,16:20,19:39,66 Straubel Terrace,true,ultrices
+3,99,7:57,20:33,223 Cody Alley,true,posuere cubilia curae
+5,13,12:36,20:52,30 Judy Parkway,true,odio odio elementum
+2,61,13:39,21:24,3976 Logan Drive,true,est risus auctor
+7,14,13:48,21:01,42 7th Crossing,true,mattis
+6,17,15:16,19:09,11 Rockefeller Junction,true,mattis
+4,45,7:53,20:22,6 Anthes Way,true,lorem ipsum dolor
+2,40,6:03,23:27,7076 West Point,true,magnis
+5,88,15:19,18:18,337 Holy Cross Drive,true,venenatis turpis enim
+7,44,16:37,17:46,217 Cottonwood Terrace,true,non interdum in
+5,15,15:04,18:11,086 Atwood Lane,true,vel ipsum praesent
+5,67,10:12,22:39,883 Scofield Avenue,true,convallis
+1,44,12:09,22:54,850 Menomonie Way,true,pede lobortis
+4,95,7:06,18:38,9 Mifflin Circle,true,hendrerit at vulputate
+4,21,6:56,20:00,8417 Meadow Vale Road,true,mi
+6,44,11:23,22:53,00 Russell Circle,true,pede venenatis non
+6,53,12:06,22:46,6005 Cottonwood Hill,true,posuere cubilia
+2,88,4:09,19:01,3126 Sunbrook Circle,true,amet
+7,69,5:10,21:12,820 American Ash Center,true,at turpis a
+4,40,7:48,22:52,50227 Elka Trail,true,nunc
+6,37,15:09,23:42,9690 Lawn Hill,true,elit
+1,86,9:40,17:42,21930 Farmco Trail,true,sapien
+2,46,14:04,21:45,6644 Kropf Street,true,ut
+5,83,5:24,19:14,3926 Pepper Wood Crossing,true,sem duis
+3,92,10:26,18:57,12 Garrison Avenue,true,aliquam non mauris
+5,73,12:09,21:23,8767 Vernon Junction,true,volutpat convallis morbi
+5,44,7:47,22:05,13 Leroy Road,true,rutrum rutrum neque
+3,12,9:09,22:37,29 Melvin Point,true,suspendisse potenti
+3,82,10:03,19:02,80530 Ridgeway Terrace,true,luctus
+4,70,8:46,18:41,62 Shopko Trail,true,pellentesque
+6,79,12:02,23:28,5865 Raven Drive,true,consequat varius
+4,100,15:54,18:17,6 Dunning Plaza,true,sapien a libero
+1,11,11:52,23:30,055 Fieldstone Drive,true,nulla
+3,51,11:11,18:37,238 Mcguire Center,true,habitasse
+3,27,10:29,21:16,6 Lunder Drive,true,lacus morbi quis
+5,26,11:17,20:20,9004 Basil Junction,true,volutpat eleifend donec
+5,30,14:46,22:23,56878 Vermont Alley,true,sit
+2,17,11:49,18:17,561 Hudson Road,true,aliquam
+2,52,8:04,23:21,5037 Sundown Hill,true,nascetur ridiculus mus
+2,83,12:59,17:54,806 Caliangt Center,true,platea
+6,69,7:14,18:36,6 Dakota Parkway,true,pede
+1,48,13:03,18:24,9 Brickson Park Park,true,nulla
+5,67,6:17,18:42,11638 Heffernan Avenue,true,libero
+7,69,16:27,22:12,2087 Mallard Crossing,true,eget
+2,72,13:18,17:16,6796 Pleasure Center,true,sit amet diam
+5,83,11:35,22:01,98 Graedel Trail,true,accumsan
+5,22,14:56,22:39,33017 Thompson Center,true,magna
+7,78,11:13,20:36,9 Fairfield Junction,true,semper interdum
+7,27,4:57,22:43,3022 Scoville Trail,true,risus semper porta
+1,21,6:33,23:57,83555 Vidon Street,true,hac
+5,40,16:25,22:51,1759 Farmco Lane,true,a odio
+6,36,8:35,18:02,4 Bellgrove Park,true,congue eget semper
+6,91,15:33,22:22,4 Algoma Parkway,true,cursus
+1,24,16:36,22:19,5406 Stang Park,true,ut tellus
+5,67,8:57,23:12,1 Merry Lane,true,dictumst
+7,58,6:51,21:33,1 Grayhawk Plaza,true,id pretium
+5,57,5:01,19:23,4980 Towne Avenue,true,molestie lorem quisque
+2,46,5:24,17:48,00 Lakewood Gardens Park,true,arcu sed augue
+6,99,4:33,21:34,2 Grayhawk Circle,true,duis
+4,86,9:54,17:41,22 Leroy Street,true,non mauris
+6,61,6:14,19:22,3 Summerview Circle,true,nibh fusce lacus
+3,11,15:03,20:38,983 Dahle Point,true,mauris
+5,76,13:33,21:18,15 Mosinee Drive,true,ut at
+4,75,14:28,22:08,41169 Hermina Point,true,ac consequat
+4,93,14:19,22:21,49 Miller Point,true,vulputate justo in
+2,27,15:36,21:49,4395 Sauthoff Junction,true,orci luctus et
+7,20,13:01,17:11,2828 Briar Crest Road,true,quis justo
+2,22,13:06,20:02,29 Kennedy Parkway,true,nec molestie sed
+4,71,16:42,17:06,850 2nd Park,true,felis
+3,23,5:01,19:39,1298 Oak Parkway,true,et tempus
+3,50,9:53,23:24,90466 Autumn Leaf Road,true,turpis elementum ligula
+2,36,6:00,18:58,5229 Schmedeman Junction,true,sagittis sapien
+1,58,7:42,18:50,2 Manley Center,true,rhoncus aliquet pulvinar
+3,44,7:27,22:51,52218 Mitchell Alley,true,felis ut at
+2,34,12:38,17:52,06777 Pierstorff Avenue,true,viverra
+4,80,5:21,20:00,2 Fairfield Circle,true,lacinia aenean sit
+7,24,13:10,23:09,89 Emmet Court,true,porttitor lorem id
+2,11,8:05,22:02,46 Armistice Lane,true,libero nam dui
+3,47,5:00,23:22,9 Walton Place,true,cursus vestibulum proin
+3,78,10:29,23:00,2662 Dayton Parkway,true,eleifend
+1,75,6:50,23:29,65476 Schurz Hill,true,nonummy integer
+4,73,16:21,23:27,548 Northfield Center,true,felis
+5,96,10:09,21:14,94 Graceland Junction,true,id consequat in
+1,14,6:52,17:17,8 Dixon Crossing,true,lacinia aenean
+5,15,16:46,17:13,5 Northridge Hill,true,id consequat
+2,18,5:13,23:11,79201 Village Avenue,true,feugiat non
+3,91,11:49,21:37,53 Pleasure Center,true,pede posuere
+3,96,5:08,23:24,9662 Leroy Street,true,pellentesque
+1,93,16:57,19:58,7 Orin Parkway,true,habitasse platea dictumst
+3,96,9:05,22:41,7424 Blackbird Place,true,eget orci vehicula
+3,30,11:51,18:11,589 Mallory Alley,true,consequat morbi a
+2,86,10:40,23:34,89173 Quincy Lane,true,mus
+4,71,6:49,19:51,38077 Springs Center,true,at nulla suspendisse
+3,28,13:50,20:20,498 Becker Place,true,maecenas ut massa
+6,73,14:38,20:22,5 Meadow Vale Pass,true,quam
+4,54,8:13,23:01,236 Elmside Road,true,orci vehicula
+7,95,14:13,17:17,930 Lotheville Way,true,sit
+7,80,13:58,18:13,43 Utah Point,true,et commodo
+4,61,10:43,20:29,1 Rowland Parkway,true,justo
+7,81,4:09,21:33,507 Shoshone Lane,true,sed vel
+6,45,4:59,17:17,9 Canary Avenue,true,ligula pellentesque ultrices
+3,72,9:55,22:19,27411 Orin Alley,true,tempus
+1,98,6:48,20:47,45 Mallard Plaza,true,at
+6,92,15:53,22:20,3163 Merchant Junction,true,libero non
+4,80,10:49,18:43,6 Sullivan Court,true,odio in
+3,15,6:16,17:21,6831 Glacier Hill Street,true,ultrices
+7,10,11:51,21:41,19 Longview Place,true,sapien urna
+5,62,12:58,23:20,4737 Briar Crest Trail,true,hendrerit
+1,69,11:16,17:27,4 Del Sol Plaza,true,dolor sit amet
+2,21,4:12,21:02,1 Mcguire Terrace,true,turpis enim blandit
+6,92,11:15,23:08,791 Glacier Hill Drive,true,justo aliquam quis
+7,19,5:02,21:49,3 Declaration Pass,true,justo eu
+3,40,12:18,21:09,814 Derek Pass,true,sem sed sagittis
+2,24,11:31,17:55,8410 Oakridge Circle,true,duis aliquam
+3,87,13:25,18:33,73315 2nd Drive,true,nulla sed
+3,14,6:42,21:35,0 Prentice Court,true,eu est congue
+2,78,16:48,22:07,608 Spenser Pass,true,egestas metus aenean
+3,94,14:47,23:48,2 Northwestern Trail,true,fermentum
+4,59,6:29,19:38,73 Hollow Ridge Pass,true,ac
+1,43,10:06,23:03,38 Steensland Road,true,pede
+4,78,16:42,19:56,949 Boyd Drive,true,habitasse platea
+1,39,4:56,20:07,4232 Pawling Park,true,quis turpis
+2,81,4:17,18:29,8 Sachtjen Terrace,true,neque aenean
+2,72,13:15,21:15,5 Huxley Hill,true,luctus
+4,50,4:00,22:37,77487 Lake View Hill,true,praesent lectus
+3,51,8:23,23:47,80 Grasskamp Crossing,true,dui nec
+6,27,9:45,23:52,5 Derek Point,true,metus sapien ut
+5,46,13:16,22:17,0 Swallow Pass,true,tellus nulla
+2,90,13:18,19:49,234 Dakota Crossing,true,ultrices posuere
+2,50,6:46,21:28,64038 Butterfield Lane,true,non mattis
+6,66,7:42,20:14,8 Lyons Center,true,vestibulum proin eu
+5,32,5:27,19:26,27615 Alpine Parkway,true,orci
+6,95,13:40,22:43,7311 Arizona Court,true,in est
+5,51,5:05,22:25,45 Waywood Avenue,true,penatibus
+4,23,14:34,19:05,1 Lukken Hill,true,feugiat
+5,15,15:51,21:42,18 Service Lane,true,primis
+2,28,13:17,22:39,3494 Loftsgordon Circle,true,nunc donec
+4,97,12:19,18:38,8374 Steensland Street,true,diam cras
+1,39,9:56,21:35,618 Onsgard Street,true,sapien
+1,13,8:35,19:49,88 Myrtle Parkway,true,in faucibus
+7,57,16:55,17:14,94035 Milwaukee Point,true,viverra diam
+2,47,6:49,22:37,92 Schurz Circle,true,diam vitae quam
+2,21,9:05,23:02,45 Boyd Park,true,est
+5,12,8:34,21:00,41324 Maple Circle,true,dui
+5,27,10:36,17:51,3512 Milwaukee Park,true,sapien
+6,91,7:06,22:23,7499 Northview Park,true,pellentesque at nulla
+5,13,5:14,23:17,214 Warrior Alley,true,phasellus id sapien
+1,42,14:41,21:15,519 Moose Trail,true,et magnis dis
+2,57,4:51,21:36,7 Autumn Leaf Way,true,nisl ut volutpat
+7,34,10:54,19:00,011 Anhalt Road,true,tristique
+5,15,13:35,21:26,2 Scofield Terrace,true,a pede posuere
+7,81,16:34,22:49,105 Hovde Pass,true,pretium quis lectus
+3,41,9:46,18:38,2208 Anderson Plaza,true,integer pede
+5,25,10:21,21:44,8 Schiller Place,true,blandit lacinia
+1,56,12:24,18:41,4749 Village Green Terrace,true,curae mauris viverra
+7,41,14:30,18:30,502 Barby Way,true,ac nibh fusce
+2,33,4:56,19:52,65885 Tennyson Drive,true,et
+1,35,11:23,22:09,9 5th Place,true,adipiscing
+6,63,8:24,20:36,05182 Butternut Parkway,true,curae
+3,19,15:35,22:37,224 Walton Alley,true,aliquam
+6,32,14:23,23:31,69 South Court,true,condimentum curabitur
+2,78,14:39,19:59,7 Shasta Center,true,fusce
+6,50,10:33,21:34,4557 Messerschmidt Pass,true,cras
+4,31,15:42,18:44,6 Reinke Junction,true,nam nulla integer
+3,61,12:50,19:14,9712 Vermont Avenue,true,libero
+6,39,13:09,18:33,57 Corry Terrace,true,dui vel sem
+5,51,8:04,20:59,8327 Ridgeway Point,true,ipsum primis in
+7,61,9:50,18:40,909 Darwin Point,true,odio consequat
+2,100,7:28,22:12,96 Rowland Plaza,true,venenatis
+7,99,15:23,21:06,024 Caliangt Center,true,pede morbi
+3,52,11:24,21:03,172 5th Plaza,true,ullamcorper
+4,15,9:43,22:57,36024 Schlimgen Plaza,true,ornare imperdiet
+5,16,16:37,22:36,9389 Crescent Oaks Junction,true,in
+5,91,7:32,19:23,12 Fairview Park,true,posuere felis
+2,80,5:33,20:53,030 Bartelt Place,true,vitae ipsum aliquam
+3,20,5:30,20:24,413 Dayton Parkway,true,molestie
+1,63,6:07,20:03,96 Kensington Street,true,vel
+2,33,13:38,23:32,6 Muir Point,true,iaculis diam
+1,63,10:35,19:28,2 Pearson Center,true,tellus in sagittis
+4,49,12:52,23:21,4640 Lunder Street,true,in faucibus orci
+3,55,5:06,17:49,74424 Pennsylvania Drive,true,turpis nec
+7,10,15:36,18:12,93553 Butternut Lane,true,viverra eget
+4,33,8:13,22:57,9 Erie Point,true,cubilia curae
+4,47,14:39,21:44,9 Sunbrook Trail,true,duis bibendum
+4,43,9:19,18:34,6 Continental Park,true,in
+5,75,9:57,21:39,2775 Nevada Avenue,true,luctus rutrum nulla
+1,71,14:49,20:52,6163 Clemons Way,true,quam
+6,60,8:41,17:48,3 Laurel Lane,true,quam
+7,25,6:35,17:28,93 Spohn Terrace,true,congue etiam
+1,43,9:08,18:45,93 Thierer Center,true,et
+6,94,8:06,20:43,365 Village Lane,true,duis ac
+3,81,11:35,19:40,45 Forest Hill,true,elit
+1,26,5:29,17:11,2185 Monument Drive,true,erat vestibulum
+2,51,9:55,22:58,59 Crowley Junction,true,convallis tortor
+3,15,5:10,20:10,2 Stuart Plaza,true,ullamcorper augue
+6,53,14:30,23:38,8670 Manley Plaza,true,dui maecenas
+7,80,7:19,17:45,877 American Ash Drive,true,suspendisse ornare consequat
+7,92,8:13,17:34,4535 Packers Court,true,nec
+5,39,6:59,17:19,82712 Steensland Place,true,ligula
+6,62,14:54,17:01,434 Hazelcrest Park,true,nulla ut erat
+4,80,9:48,20:43,56 Farragut Place,true,justo
+7,96,5:55,19:21,4 Elka Circle,true,at lorem integer
+7,77,15:27,17:53,57703 Canary Junction,true,vulputate vitae
+7,64,8:38,18:52,9007 Nobel Junction,true,integer aliquet
+3,20,7:51,17:51,962 Hoffman Park,true,quis turpis
+2,24,11:35,17:31,6 Fordem Avenue,true,mi sit amet
+2,32,5:58,21:39,0896 Village Place,true,fringilla rhoncus mauris
+3,83,10:15,19:23,1621 Pleasure Hill,true,parturient montes
+6,43,9:55,22:02,581 Nelson Street,true,platea dictumst morbi
+2,36,15:43,19:15,785 Spenser Trail,true,nulla
+3,31,9:57,21:19,45 Cascade Parkway,true,proin interdum mauris
+5,17,9:23,18:03,5 Dottie Junction,true,nibh quisque
+7,60,13:51,20:32,80771 Sheridan Parkway,true,primis in
+7,36,14:57,23:11,06 Fallview Plaza,true,nam
+7,22,4:09,19:01,0400 Arizona Crossing,true,duis consequat
+7,50,16:03,23:40,13 Spohn Place,true,porta volutpat quam
+2,76,10:27,17:11,6359 Cottonwood Way,true,sit amet nunc
+5,87,15:42,18:42,493 Briar Crest Alley,true,bibendum morbi non
+3,15,16:14,18:03,2 Huxley Parkway,true,convallis
+5,70,6:24,22:11,05552 3rd Lane,true,venenatis lacinia
+3,90,16:27,23:50,343 Dayton Plaza,true,rutrum
+4,12,11:35,20:41,617 Blaine Street,true,convallis nunc proin
+4,47,11:16,22:12,3021 Schurz Street,true,aenean
+3,45,13:58,23:19,22 Di Loreto Trail,true,justo
+5,26,8:46,23:08,32893 Grayhawk Road,true,dui vel
+5,85,9:37,23:37,056 Sunbrook Point,true,sapien arcu sed
+6,24,11:09,20:54,76482 Columbus Crossing,true,nulla ultrices
+1,23,8:16,17:43,0 Hauk Court,true,justo etiam pretium
+3,56,7:39,17:03,4 Corscot Way,true,vulputate vitae nisl
+7,55,7:32,22:55,3 Lunder Street,true,faucibus
+7,98,11:09,20:17,2633 Eliot Plaza,true,augue aliquam erat
+1,86,14:37,22:09,0106 Sunfield Trail,true,ultrices aliquet maecenas
+4,32,6:19,19:24,99 Mifflin Place,true,lectus pellentesque at
+4,12,7:33,17:06,6497 Pierstorff Crossing,true,a libero
+1,99,6:32,23:31,6 Melvin Point,true,sem mauris
+2,34,13:49,20:16,7506 Delaware Road,true,blandit nam nulla
+6,20,15:01,20:33,554 Namekagon Trail,true,ligula vehicula consequat
+2,52,6:32,19:28,77794 Vera Court,true,libero rutrum
+5,99,4:39,23:19,00761 West Court,true,in
+2,88,10:47,23:50,768 Memorial Avenue,true,tempus vel pede
+6,78,16:52,23:01,214 Vermont Alley,true,in tempus
+3,52,7:54,23:54,196 Linden Avenue,true,consequat lectus
+6,40,11:37,21:02,64638 Erie Terrace,true,magna ac consequat
+3,77,16:20,19:17,60821 Linden Road,true,turpis elementum ligula
+3,37,11:16,21:10,832 Westridge Avenue,true,purus aliquet at
+7,43,4:37,21:32,6 Leroy Hill,true,justo maecenas rhoncus
+4,65,8:56,18:15,53 Everett Drive,true,ornare consequat lectus
+3,27,16:37,19:30,794 Ridgeway Plaza,true,tempus
+4,59,9:27,18:02,98545 Cottonwood Court,true,phasellus in felis
+3,80,15:26,23:57,4 Sachtjen Place,true,elit
+3,85,10:52,21:40,17 Northland Parkway,true,quis orci
+1,24,12:13,20:14,987 Mandrake Street,true,lacinia nisi venenatis
+3,59,16:24,17:42,73287 Cottonwood Junction,true,maecenas
+2,95,7:58,22:59,01093 Kipling Lane,true,turpis a pede
+7,99,11:26,20:50,3985 Mayer Center,true,erat id mauris
+3,64,7:10,23:04,32 Elka Plaza,true,ridiculus mus vivamus
+1,35,4:12,22:39,23394 Waubesa Parkway,true,vulputate
+4,96,6:42,19:26,6 Emmet Plaza,true,quam turpis
+5,98,10:12,17:16,1 Barnett Lane,true,convallis
+3,44,10:54,23:23,00 Eastwood Lane,true,maecenas leo
+3,58,14:17,21:43,995 Monica Parkway,true,morbi quis tortor
+7,50,16:09,20:23,223 Reindahl Place,true,tincidunt lacus at
+4,26,13:59,22:47,6 Bartelt Court,true,ut blandit
+3,10,13:31,22:06,039 Ilene Park,true,erat
+7,45,5:40,19:23,214 Mockingbird Parkway,true,id nisl venenatis
+2,74,4:30,23:51,5 Meadow Vale Center,true,dolor
+4,36,13:43,22:52,230 Village Drive,true,nulla
+4,23,11:03,23:22,5 Quincy Junction,true,ut tellus
+4,54,13:00,20:39,8115 Linden Point,true,hac
+5,79,8:29,22:07,50 Kenwood Way,true,justo
+7,25,5:50,17:40,460 Morningstar Center,true,dui maecenas tristique
+5,61,11:07,21:16,8 Helena Point,true,interdum mauris non
+4,85,11:39,21:15,7 Riverside Parkway,true,bibendum imperdiet nullam
+1,23,13:13,18:08,39 Fieldstone Hill,true,quisque
+6,31,12:47,17:44,13363 Ludington Park,true,lacus
+7,67,4:46,17:01,9 Norway Maple Way,true,id sapien in
+3,76,6:12,21:27,5602 Fallview Circle,true,ullamcorper
+3,33,13:30,17:00,6 Talmadge Place,true,praesent id massa
+5,50,4:30,19:16,4 Northport Drive,true,feugiat et eros
+7,95,11:01,23:10,4025 Dovetail Road,true,integer
+1,11,6:17,22:15,5 Spenser Alley,true,faucibus
+6,91,8:04,20:37,815 John Wall Plaza,true,nunc viverra dapibus
+7,43,4:40,23:50,4365 Sunnyside Lane,true,vulputate vitae
+1,60,8:23,18:39,669 Loftsgordon Street,true,rhoncus mauris
+5,37,7:08,22:55,090 Dwight Place,true,tempus vivamus in
+5,33,15:28,19:31,178 Milwaukee Circle,true,duis consequat
+1,57,4:14,22:13,5164 Forster Alley,true,sapien varius
+7,83,7:45,20:24,978 Thompson Pass,true,congue vivamus
+2,93,12:14,23:31,0 David Place,true,est et
+4,81,15:07,20:07,0 Scofield Court,true,cum sociis
+7,38,9:06,22:34,5 Buell Lane,true,vivamus tortor duis
+6,19,7:12,22:49,7917 Valley Edge Park,true,curabitur in
+5,49,14:39,23:23,7 Badeau Park,true,hendrerit at vulputate
+7,55,10:27,19:28,04688 Monument Point,true,vitae nisl
+2,57,16:14,18:53,15073 Sutteridge Crossing,true,vestibulum
+4,45,13:34,18:35,82448 Golf View Hill,true,at nulla suspendisse
+1,42,14:56,18:53,64 Oriole Way,true,purus
+3,95,8:12,21:13,0487 Mayfield Circle,true,magna
+6,39,7:06,20:06,5 Declaration Alley,true,diam
+1,66,15:28,22:29,24285 Muir Way,true,fusce
+2,87,14:30,20:35,45466 Ruskin Point,true,odio justo sollicitudin
+4,82,9:34,18:52,20312 6th Place,true,metus arcu adipiscing
+1,70,16:44,22:01,19 Sheridan Drive,true,fusce
+4,75,13:20,23:31,4385 American Circle,true,diam
+3,90,5:16,22:45,65 Longview Circle,true,luctus et ultrices
+4,40,13:03,19:46,91 Butternut Street,true,vestibulum
+7,50,7:34,21:24,20973 Schurz Road,true,est
+2,43,16:24,17:34,8057 Talmadge Junction,true,amet turpis elementum
+1,47,16:43,19:26,6 Becker Plaza,true,fringilla
+3,26,7:48,17:19,639 Columbus Alley,true,vestibulum vestibulum ante
+4,98,11:18,17:03,5525 Drewry Terrace,true,donec dapibus duis
+3,56,14:43,20:52,06741 Veith Plaza,true,ante ipsum
+1,77,13:58,17:42,82 Oakridge Hill,true,habitasse platea dictumst
+6,94,4:13,23:24,50092 Lindbergh Street,true,sed vel
+7,83,10:10,22:49,73 Heffernan Point,true,sem
+6,21,5:45,20:10,5662 Mayer Pass,true,in eleifend quam
+7,73,11:29,17:33,28278 Crownhardt Plaza,true,vitae
+7,68,14:13,23:00,8232 Truax Center,true,amet justo morbi
+3,44,14:41,18:05,92 Tony Circle,true,dui
+3,45,10:08,23:52,8 Bluestem Trail,true,pulvinar sed
+5,54,5:33,19:30,51 Alpine Junction,true,erat nulla
+6,48,5:32,19:40,011 Sunfield Road,true,erat tortor
+6,77,5:42,21:54,4886 Scott Circle,true,in tempor
+1,25,7:09,19:14,08 Erie Hill,true,in
+5,60,4:47,22:03,83 Mcbride Point,true,amet nulla
+1,44,9:28,17:01,68168 Kipling Street,true,odio donec vitae
+5,74,9:04,21:32,25 Sachtjen Crossing,true,ultrices
+6,25,16:47,20:45,2445 Russell Avenue,true,sed
+1,87,14:58,22:05,548 Quincy Court,true,turpis
+3,28,6:18,22:34,79 Pepper Wood Pass,true,rutrum
+2,98,15:11,22:10,97175 Novick Plaza,true,posuere
+4,100,11:07,22:08,25 Forest Circle,true,lectus
+1,88,7:31,22:30,8014 Declaration Hill,true,risus
+2,29,5:47,19:11,038 Hallows Drive,true,est
+1,53,12:49,18:17,00 Amoth Alley,true,interdum in
+2,71,14:39,19:59,36448 Anniversary Park,true,id lobortis convallis
+3,66,4:56,18:54,63737 Acker Trail,true,eu
+4,14,11:36,18:00,70364 Hanover Way,true,nibh in
+2,60,10:06,20:55,16 Chinook Plaza,true,urna pretium nisl
+2,93,6:39,18:12,99620 Lake View Terrace,true,nibh
+1,13,4:52,22:09,49 Doe Crossing Hill,true,turpis
+5,89,13:42,18:36,090 Stang Pass,true,vestibulum eget vulputate
+4,35,14:38,18:20,3349 Nelson Parkway,true,rhoncus sed vestibulum
+3,50,8:24,17:54,77 Anhalt Crossing,true,erat
+5,50,14:49,22:51,4 Logan Lane,true,nulla
+5,49,14:23,18:45,8292 Fisk Plaza,true,velit
+2,13,8:22,23:04,1 Lakewood Gardens Plaza,true,amet eros
+3,74,11:09,23:15,99 Graceland Road,true,vestibulum
+2,73,9:40,19:58,6 Dayton Court,true,aliquet massa
+4,36,6:16,20:16,5548 La Follette Way,true,praesent
+7,58,12:34,22:55,6 Hovde Trail,true,gravida sem praesent
+1,73,13:12,20:43,7 Helena Drive,true,cursus
+6,75,5:11,21:47,719 Namekagon Center,true,id
+6,60,4:37,17:03,62 Commercial Junction,true,ipsum integer
+7,48,6:49,23:14,9012 Prairieview Lane,true,felis fusce
+2,41,8:09,20:19,75 Kennedy Alley,true,a libero nam
+6,82,14:23,19:22,77365 2nd Park,true,nibh in
+1,61,4:59,23:17,3491 Graedel Way,true,sit
+7,33,5:22,19:01,75464 Westridge Plaza,true,odio in hac
+6,33,5:08,21:12,400 Crest Line Center,true,nec condimentum neque
+1,43,8:54,18:11,67801 Sundown Court,true,orci luctus
+4,58,16:19,22:16,0 Surrey Center,true,dui
+6,32,12:57,22:43,1 Annamark Crossing,true,phasellus
+7,32,12:23,22:32,39274 Forster Drive,true,metus vitae
+7,22,7:28,20:10,30959 Arrowood Lane,true,est
+5,74,8:33,17:04,80660 Warbler Alley,true,libero nullam
