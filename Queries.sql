@@ -79,3 +79,19 @@ WHERE
 		AND (CURRENT_DATE - O.DATEOFORDER)/365 <= 2
 	)
 
+--Izbrišite loyalty kartice svih korisnika koji nisu naručili nijedno jelo u posljednjih godinu dana.
+
+
+UPDATE CUSTOMER
+SET HASLOYALTY = FALSE
+WHERE CUSTOMERID IN(
+	SELECT C.CUSTOMERID
+	FROM CUSTOMER C
+	WHERE
+		NOT EXISTS(
+			SELECT 1
+			FROM ORDERS O
+			WHERE O.CUSTOMERID = C.CUSTOMERID
+				AND (CURRENT_DATE - O.DATEOFORDER)/365 <= 1
+	)
+)
